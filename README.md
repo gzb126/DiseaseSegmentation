@@ -11,4 +11,4 @@ models_v1.0.0为存放的模型，模型比较大git上放不上，放到百度�
 链接：https://pan.baidu.com/s/1NdS_3B2vzBTRNsqgRF_WoA?pwd=tc01 
 提取码：tc01
 
-将模型下载后放到主目录下即可
+将模型文件下载后放到主目录下即可
